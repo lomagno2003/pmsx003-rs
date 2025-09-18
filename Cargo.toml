@@ -6,7 +6,7 @@ edition = "2024"
 license = "MIT"
 repository = "https://github.com/lomagno2003/pmsx003-rs"
 description = "Rust interface for PMS X003 air quality sensors"
-keywords = ["pms5003", "pms7003", "sensor", "embedded", "no-std", "no-alloc"]
+keywords = ["pms5003", "pms7003", "embedded", "no-std", "no-alloc"]
 
 
 [dependencies]
